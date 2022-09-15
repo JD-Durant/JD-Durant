@@ -24,7 +24,7 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jd-durant&show_icons=true&locale=en" alt="jd-durant" /></p>
-
+<br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jd-durant&show_icons=true&locale=en&layout=compact" alt="jd-durant" /></p>
 
 
