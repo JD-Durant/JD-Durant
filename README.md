@@ -9,7 +9,7 @@
 <ul>
   <li>👷 Currently Working On</li> <b>My Discord Bot; Billy! (soon to be released :D)</b>
   <li>👨‍💼 Current Job</li> <b>Full Time Software Developer</b>
-  <li>📝 Current Learning</li> <b>Java & C#</b>
+  <li>📝 Currently Learning</li> <b>Java & C#</b>
   <li>❗ Fun fact</li> <b>I have a massive obsession with capybaras!</b></ul>
   </p>
   <p>
