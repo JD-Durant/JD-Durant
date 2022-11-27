@@ -8,7 +8,7 @@
   I'm Josh, a passionate and self taught half stack software developer based in Newcastle, England.
 <ul>
   <li>👷 Currently Working On</li> <b>My Discord Bot; Billy! (soon to be released :D)</b>
-  <li>👨‍💼 Current Job</li> <b>Full Time Software Developer</b>
+  <li>👨‍💼 Current Job</li> <b>Software Engineer Apprentice</b>
   <li>📝 Currently Learning</li> <b>Java & C#</b>
   <li>❗ Fun fact</li> <b>I have a massive obsession with capybaras!</b></ul>
   </p>
