@@ -1,15 +1,15 @@
 <img alight="center" alt="Banner" width="1000" height="500" src="https://i.imgur.com/TVdmm2k.gif">
 <a href="https://instagram.com/jdd_0114" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jdd_0114" height="30" width="40"></a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=jd-durant&label=Profile%20views&color=0e75b6&style=flat" alt="jd-durant" /> </p>
-<h1><b>Hey there! Lovely to meet you</b>
+<h1><b>Hey there! Nice to meet you</b>
 <img src="https://media0.giphy.com/media/TjABz1CrJfsORWDba3/giphy.gif?cid=6c09b952405f7fzzi3hhk645r64j2r4gi7usd3gvhdt4vw01&rid=giphy.gif&ct=s" alt="leCapy" width="40" height="40"> </h1>
   <p>
   Welcome to my page!
   I'm Josh, a passionate and self taught half stack software developer based in Newcastle, England.
 <ul>
-  <li>👷 Currently Working On</li> <b>My Discord Bot; Billy! (soon to be released :D)</b>
+  <li>👷 Currently Working On</li> <b>My Discord Bot; Billy! (Repository Now Available!)</b>
   <li>👨‍💼 Current Job</li> <b>Software Engineer Apprentice</b>
-  <li>📝 Currently Learning</li> <b>Java & C#</b>
+  <li>📝 Currently Learning</li> <b>C#</b>
   <li>❗ Fun fact</li> <b>I have a massive obsession with capybaras!</b></ul>
   </p>
   <p>
