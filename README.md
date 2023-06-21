@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,cs,css,docker,dotnet,git,gradle,heroku,html,java,js,jquery,postman,ps,py&perline=8" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,cs,css,docker,dotnet,git,gradle,heroku,html,java,js,jquery,postman,powershell,py&perline=8" />
   </a>
 </p>
 
