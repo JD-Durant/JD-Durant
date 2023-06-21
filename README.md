@@ -5,18 +5,17 @@
 <img src="https://media0.giphy.com/media/TjABz1CrJfsORWDba3/giphy.gif?cid=6c09b952405f7fzzi3hhk645r64j2r4gi7usd3gvhdt4vw01&rid=giphy.gif&ct=s" alt="leCapy" width="40" height="40"> </h1>
   <p>
   Welcome to my page!
-  I'm Josh, a passionate and self taught half stack software developer based in Newcastle, England.
+  I'm Josh, a passionate and self taught Full stack Software Engineer based in Newcastle, England.
 <ul>
-  <li>👷 Currently Working On</li> <b>A Secret! 🤫</b>
   <li>👨‍💼 Current Job</li> <b>Software Engineer Apprentice</b>
-  <li>📝 Currently Learning</li> <b>C#</b>
+  <li>📝 Currently Learning</li> <b>AWS</b>
   <li>❗ Fun fact</li> <b>I have a massive obsession with capybaras!</b></ul>
   </p>
   <p>
   A lot of my work is open source as I hope to spread the passion I feel to others 
-  (though if you're casually scrolling through Github, I believe you're like the rest of us here!)
+  (though if you're casually scrolling through Github, I believe you're like the rest of us here)
   
-  Though I'm a little inactive on GitHub due to working full time, I do aim to contribute more to my profile to expand my portfolio!
+  I'm a little inactive on GitHub due to working full time, I do aim to contribute more to my profile to expand my portfolio!
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
